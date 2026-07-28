@@ -19,4 +19,4 @@ Analysed hotel booking data to identify revenue trends and property performance 
 
 
 ### Skills Demonstrated
-DAX measures, Power Query, KPI cards, Slicers, Combo charts
+DAX measures, Power Query, KPI cards, Data Modelling, Slicers, Combo charts
